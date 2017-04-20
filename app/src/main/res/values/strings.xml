@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRS111111_Z2</string>
+
+    <string name="center">X</string>
+    <string name="no_camera_warning">No camera detected!</string>
+    <string name="camera_bug">Something is wrong with the camera!</string>
+</resources>
